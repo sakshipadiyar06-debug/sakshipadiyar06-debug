@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131b" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#10141e" />
+    </linearGradient>
+
+    <!-- Border Glow -->
+    <linearGradient id="term-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#30363d" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.35" />
+    </linearGradient>
+
+    <!-- Header Glass Line -->
+    <linearGradient id="term-header-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="cursor-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      white-space: pre;
+    }
+  </style>
+
+  <!-- Terminal Window Frame -->
+  <rect x="1.5" y="1.5" width="437" height="397" rx="14" fill="url(#term-bg)" stroke="url(#term-border)" stroke-width="1.8" />
+
+  <!-- macOS Window Chrome Header -->
+  <rect x="2" y="2" width="436" height="32" rx="13" fill="#161b22" />
+  <rect x="2" y="18" width="436" height="16" fill="#161b22" />
+  <line x1="2" y1="34" x2="438" y2="34" stroke="#30363d" stroke-width="1" />
+  <line x1="40" y1="34" x2="400" y2="34" stroke="url(#term-header-line)" stroke-width="1" />
+
+  <!-- macOS Traffic Light Buttons -->
+  <circle cx="18" cy="18" r="5.2" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5" />
+  <circle cx="34" cy="18" r="5.2" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5" />
+  <circle cx="50" cy="18" r="5.2" fill="#27c93f" stroke="#1aab29" stroke-width="0.5" />
+
+  <!-- Terminal Window Title -->
+  <text x="220.0" y="22" fill="#8b949e" font-size="11" font-weight="600" text-anchor="middle" class="mono">
+    YOUR_USERNAME@cyberdeck:~ (sh)
+  </text>
+
+  <!-- ASCII Art Body -->
+  <g class="mono" font-size="8.8" font-weight="600" letter-spacing="1.2">
+    <text x="24" y="52.0" fill="#1ef2fe" opacity="0">
+                                                
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.0s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="62.2" fill="#1ff0f5" opacity="0">
+                                                
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.075s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="72.4" fill="#20eeec" opacity="0">
+                                                
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.15s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="82.6" fill="#22ede4" opacity="0">
+                         ....                   
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.225s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="92.8" fill="#23ebdb" opacity="0">
+                       ........                 
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.3s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="103.0" fill="#24ead3" opacity="0">
+                    ..............              
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.375s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="113.2" fill="#26e8ca" opacity="0">
+                   .......   .......            
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.45s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="123.4" fill="#27e7c2" opacity="0">
+                  ......       .....            
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.525s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="133.6" fill="#28e5b9" opacity="0">
+                 .....          .....           
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.6s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="143.8" fill="#2ae4b1" opacity="0">
+                 ....            .....          
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.675s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="154.0" fill="#2be2a8" opacity="0">
+                .....-##########=.....          
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.75s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="164.2" fill="#2ce09f" opacity="0">
+                .....:#@@@@@@@@%-......         
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.825s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="174.4" fill="#2edf97" opacity="0">
+               .....              .....         
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.9s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="184.6" fill="#2fdd8e" opacity="0">
+               ......            ......         
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="0.975s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="194.8" fill="#30dc86" opacity="0">
+               .........       .........        
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.05s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="205.0" fill="#32da7d" opacity="0">
+              ............  ............        
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.125s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="215.2" fill="#33d975" opacity="0">
+              ..........................        
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.2s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="225.4" fill="#34d76c" opacity="0">
+             ............................       
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.275s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="235.6" fill="#36d664" opacity="0">
+            .::::::::::::::::::::::::::::..     
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.35s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="245.8" fill="#37d45b" opacity="0">
+         ..:::::::::::::::::::::::::::::::::.   
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.425s"
+               repeatCount="indefinite" />
+    </text>
+    <text x="24" y="256.0" fill="#39d353" opacity="0">
+       .::::::::::::::::::::::::::::::::::::::. 
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.04;0.92;1"
+               dur="9.0s"
+               begin="1.5s"
+               repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- Scanning Cursor Block -->
+  <rect width="7" height="9" rx="1" fill="#00ff88" filter="url(#cursor-glow)" opacity="0">
+    <animate attributeName="opacity"
+             values="0;0.9;0.9;0"
+             keyTimes="0;0.02;0.1750;0.2250"
+             dur="9.0s"
+             repeatCount="indefinite" />
+    <animate attributeName="x"
+             values="24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;24;324;324;324"
+             keyTimes="0.0000;0.0083;0.0083;0.0167;0.0167;0.0250;0.0250;0.0333;0.0333;0.0417;0.0417;0.0500;0.0500;0.0583;0.0583;0.0667;0.0667;0.0750;0.0750;0.0833;0.0833;0.0917;0.0917;0.1000;0.1000;0.1083;0.1083;0.1167;0.1167;0.1250;0.1250;0.1333;0.1333;0.1417;0.1417;0.1500;0.1500;0.1583;0.1583;0.1667;0.1667;0.1750;0.1750;1.0000"
+             dur="9.0s"
+             repeatCount="indefinite" />
+    <animate attributeName="y"
+             values="44.5;44.5;54.7;54.7;64.9;64.9;75.1;75.1;85.3;85.3;95.5;95.5;105.7;105.7;115.9;115.9;126.1;126.1;136.3;136.3;146.5;146.5;156.7;156.7;166.9;166.9;177.1;177.1;187.3;187.3;197.5;197.5;207.7;207.7;217.9;217.9;228.1;228.1;238.3;238.3;248.5;248.5;248.5;248.5"
+             keyTimes="0.0000;0.0083;0.0083;0.0167;0.0167;0.0250;0.0250;0.0333;0.0333;0.0417;0.0417;0.0500;0.0500;0.0583;0.0583;0.0667;0.0667;0.0750;0.0750;0.0833;0.0833;0.0917;0.0917;0.1000;0.1000;0.1083;0.1083;0.1167;0.1167;0.1250;0.1250;0.1333;0.1333;0.1417;0.1417;0.1500;0.1500;0.1583;0.1583;0.1667;0.1667;0.1750;0.1750;1.0000"
+             dur="9.0s"
+             repeatCount="indefinite" />
+  </rect>
+
+  <!-- Terminal Footer Divider -->
+  <line x1="20" y1="276.2" x2="420" y2="276.2" stroke="#30363d" stroke-dasharray="4 4" stroke-width="1" />
+
+  <!-- Typewriter Prompt Line 1: $ whoami -->
+  <g class="mono" font-size="12">
+    <!-- Prompt symbol -->
+    <text x="24" y="302.2">
+      <tspan fill="#38bdf8" font-weight="700">❯</tspan>
+      <tspan fill="#a78bfa" font-weight="600"> ~</tspan>
+      <tspan fill="#8b949e"> $ </tspan>
+    </text>
+
+    <!-- Typing "whoami" via reveal -->
+    <g transform="translate(68, 0)">
+      <text x="0" y="302.2" fill="#f0f6fc" font-weight="600">whoami</text>
+      <!-- Cover rect that shrinks to reveal whoami -->
+      <rect x="0" y="290.2" width="65" height="15" fill="#0d1117">
+        <animate attributeName="width"
+                 values="65;65;0;0;65"
+                 keyTimes="0;0.186;0.197;0.92;1"
+                 dur="9.0s"
+                 repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <!-- Typewriter Result Line 2: » username [Role] -->
+  <g class="mono" font-size="11.5">
+    <g opacity="0">
+      <text x="24" y="326.2">
+        <tspan fill="#39d353" font-weight="700">»</tspan>
+        <tspan fill="#00ff88" font-weight="700"> YOUR_USERNAME</tspan>
+        <tspan fill="#8b949e"> [Exploring the Edge of AI]</tspan>
+      </text>
+      <animate attributeName="opacity"
+               values="0;0;1;1;0"
+               keyTimes="0;0.269;0.274;0.92;1"
+               dur="9.0s"
+               repeatCount="indefinite" />
+    </g>
+
+    <!-- Blinking Cursor at the end of the command -->
+    <rect x="339" y="315.7" width="6.5" height="12.5" rx="1" fill="#00ff88" opacity="0">
+      <animate attributeName="opacity"
+               values="0;0;1;0;1;0;1;0"
+               keyTimes="0;0.274;0.319;0.363;0.408;0.452;0.497;1"
+               dur="9.0s"
+               repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
