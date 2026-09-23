@@ -154,7 +154,7 @@
         <tspan fill="#c9d1d9"> Git Bash &amp; PowerShell</tspan>
       </text>
     </g>
-    <!-- Row 5: Editor -->
+    <!-- Row 5: Section ── ABOUT ── -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -169,12 +169,11 @@
                         dur="9.0s"
                         begin="0.3s"
                         repeatCount="indefinite" />
-      <text x="24" y="132.5">
-        <tspan fill="#ff9a3c" font-weight="600">Editor:</tspan>
-        <tspan fill="#c9d1d9"> VS Code &amp; Terminal</tspan>
+      <text x="24" y="132.5" font-size="9" font-weight="700" fill="#bc8cff" letter-spacing="0.8">
+        ── ABOUT ──
       </text>
     </g>
-    <!-- Row 6: Section ── ABOUT ── -->
+    <!-- Row 6: Role -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -189,11 +188,12 @@
                         dur="9.0s"
                         begin="0.36s"
                         repeatCount="indefinite" />
-      <text x="24" y="150.0" font-size="9" font-weight="700" fill="#bc8cff" letter-spacing="0.8">
-        ── ABOUT ──
+      <text x="24" y="146.5">
+        <tspan fill="#bc8cff" font-weight="600">Role:</tspan>
+        <tspan fill="#f0f6fc"> Exploring the Edge of AI</tspan>
       </text>
     </g>
-    <!-- Row 7: Role -->
+    <!-- Row 7: Focus -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -209,11 +209,11 @@
                         begin="0.42s"
                         repeatCount="indefinite" />
       <text x="24" y="164.0">
-        <tspan fill="#bc8cff" font-weight="600">Role:</tspan>
-        <tspan fill="#f0f6fc"> Exploring the Edge of AI</tspan>
+        <tspan fill="#bc8cff" font-weight="600">Focus:</tspan>
+        <tspan fill="#c9d1d9"> Machine Learning &amp; AI Engineering</tspan>
       </text>
     </g>
-    <!-- Row 8: Focus -->
+    <!-- Row 8: Portfolio -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -229,8 +229,8 @@
                         begin="0.48s"
                         repeatCount="indefinite" />
       <text x="24" y="181.5">
-        <tspan fill="#bc8cff" font-weight="600">Focus:</tspan>
-        <tspan fill="#c9d1d9"> Machine Learning &amp; AI Engineering</tspan>
+        <tspan fill="#bc8cff" font-weight="600">Portfolio:</tspan>
+        <tspan fill="#ff9a3c"> Coming Soon (Building 🚀)</tspan>
       </text>
     </g>
     <!-- Row 9: Status -->

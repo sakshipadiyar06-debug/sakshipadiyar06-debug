@@ -60,7 +60,7 @@
   <!-- ASCII Art Body -->
   <g class="mono" font-size="8.8" font-weight="600" letter-spacing="1.2">
     <text x="24" y="52.0" fill="#1ef2fe" opacity="0">
-      @@@@%@+                       :.*@#@@@@@@@@@
+            -%@%@@@@@@@@@@%@@@@@%%@%##: .         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -69,7 +69,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="62.2" fill="#1ff0f5" opacity="0">
-      @@@%@%=               .     . ::*%%@@@@@@@@@
+            =%@@@@@@@@@@@%@%%%%%%%#%#*:           
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -78,7 +78,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="72.4" fill="#20eeec" opacity="0">
-      @@@%@%-             :-..    ...-:*%%@@@@@@@@
+            +@%@@@%%@@@@%@*+#%@@@%###+*:          
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -87,7 +87,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="82.6" fill="#22ede4" opacity="0">
-      @@@@@@.            :*+-.::==+##+ =@%@@@@@@@@
+            #@%@@@@@%%@%@*:-+#**==-..-@=          
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -96,7 +96,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="92.8" fill="#23ebdb" opacity="0">
-      @@@%@#      .      *###**+==####-.%@%@@@@@@@
+           .%%@@%@#%@@@@%:. ..:-==.  .+#          
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -105,7 +105,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="103.0" fill="#24ead3" opacity="0">
-      @@@%%+     .#+-:  -##############.*@%@@@@@@@
+           -@%@%@#.:+*%@+...   ......  #.         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -114,7 +114,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="113.2" fill="#26e8ca" opacity="0">
-      @@@%@-      =##+:.=#############= #@%@@@@@@@
+           +@%@%%%-  -*#= ............=%.         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -123,7 +123,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="123.4" fill="#27e7c2" opacity="0">
-      @@%@#        .--.::+########**++. +@%@@@@@@@
+          .%%%@@@@@#++##*:.........::-#%-         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -132,7 +132,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="133.6" fill="#28e5b9" opacity="0">
-      @@%@=            :=+++*########+ .=@%@@@@@@@
+          =@%@@@@%%@@@@*---::..    . -@#=         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -141,7 +141,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="143.8" fill="#2ae4b1" opacity="0">
-      @%@%:            :+##*+=+===++=: .+@%@@%%%%%
+          *%%@@@@@@%%%%*- .:---==----*%#:         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -150,7 +150,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="154.0" fill="#2be2a8" opacity="0">
-      @%@%:            :+==-::: :.   .-+%%@%%@@@@@
+          *@%%%%@%%@@%%*-==+**#@*#@%%#+-          
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -159,7 +159,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="164.2" fill="#2ce09f" opacity="0">
-      @@%%*: .            :---:+*:-**#%%%@%@@%##*%
+          :*%%@@%@@%%%%%%%*+=+*-:*+::.        ..: 
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -168,7 +168,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="174.4" fill="#2edf97" opacity="0">
-      @@@%@%*+.  .      .-=++:..  ::-*@%@%=+=--:=%
+            :-#%@%%@@@@%#+-::*##%%*++.    =-++**= 
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -177,7 +177,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="184.6" fill="#2fdd8e" opacity="0">
-      @@@@%@@@%#*#%*....=+#=          +%@#.::-:*@@
+               .:. -####=:.-%@@@@@@@@%-  .##***:  
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -186,7 +186,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="194.8" fill="#30dc86" opacity="0">
-      @@@@@%%%@@@@#-.=++#*:            -%%*++=:%%%
+                   +#=::.:+@@%%%%%%%%%@=  :--=*   
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -195,7 +195,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="205.0" fill="#32da7d" opacity="0">
-      @@@@@@@@%@%*===+**-               +@@@@%%%@@
+                 :=-=-::=%@%%@@@@@@@@%%@-         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -204,7 +204,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="215.2" fill="#33d975" opacity="0">
-      @@@@@@@%@#=+=*=-:                 -%@%%@@@@@
+               .=-=:==*%@@%@@@@@@@@@@@%%+         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -213,7 +213,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="225.4" fill="#34d76c" opacity="0">
-      @@@@@@%%%.--:::                   =*%@%@%@@@
+               #+++**%@@%%@@@@@@@@@@@@%@=:        
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -222,7 +222,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="235.6" fill="#36d664" opacity="0">
-      @@@@@@%%:  .                      :-:@@%@@@@
+              *@%#%%@@%%@@@@@@@@@@@@@@%@*++       
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -231,7 +231,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="245.8" fill="#37d45b" opacity="0">
-      @@@@@%@#                          :  :%@%@@@
+             .@%@@@@%%@@@@@@@@@@@@@@@@%%*%@+      
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -240,7 +240,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="256.0" fill="#39d353" opacity="0">
-      @@@@@%@#                              -@%@@@
+             .%@%%%@@@@@@@@@@@@@@@@@@@@%%@%@+     
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -274,23 +274,19 @@
 
   <!-- Typewriter Prompt Line 1: $ whoami -->
   <g class="mono" font-size="12">
-    <!-- Prompt symbol -->
-    <text x="24" y="302.2">
-      <tspan fill="#38bdf8" font-weight="700">❯</tspan>
-      <tspan fill="#a78bfa" font-weight="600"> ~</tspan>
-      <tspan fill="#8b949e"> $ </tspan>
-    </text>
-
-    <!-- Typing "whoami" via reveal -->
-    <g transform="translate(68, 0)">
-      <text x="0" y="302.2" fill="#f0f6fc" font-weight="600">whoami</text>
-      <rect x="0" y="290.2" width="65" height="15" fill="#0d1117">
-        <animate attributeName="width"
-                 values="65;65;0;0;65"
-                 keyTimes="0;0.186;0.197;0.92;1"
-                 dur="9.0s"
-                 repeatCount="indefinite" />
-      </rect>
+    <g opacity="0">
+      <text x="24" y="302.2">
+        <tspan fill="#38bdf8" font-weight="700">❯</tspan>
+        <tspan fill="#a78bfa" font-weight="600"> ~</tspan>
+        <tspan fill="#8b949e"> $ </tspan>
+        <tspan fill="#f0f6fc" font-weight="600">whoami</tspan>
+      </text>
+      <animate attributeName="opacity"
+               values="0;1;1;0"
+               keyTimes="0;0.05;0.92;1"
+               dur="9.0s"
+               begin="1.72s"
+               repeatCount="indefinite" />
     </g>
   </g>
 
@@ -304,16 +300,17 @@
       </text>
       <animate attributeName="opacity"
                values="0;0;1;1;0"
-               keyTimes="0;0.269;0.274;0.92;1"
+               keyTimes="0;0.258;0.263;0.92;1"
                dur="9.0s"
+               begin="2.37s"
                repeatCount="indefinite" />
     </g>
 
-    <!-- Blinking Cursor -->
+    <!-- Blinking Neon Cursor -->
     <rect x="364" y="315.7" width="6.5" height="12.5" rx="1" fill="#00ff88" opacity="0">
       <animate attributeName="opacity"
                values="0;0;1;0;1;0;1;0"
-               keyTimes="0;0.274;0.319;0.363;0.408;0.452;0.497;1"
+               keyTimes="0;0.263;0.308;0.352;0.397;0.441;0.486;1"
                dur="9.0s"
                repeatCount="indefinite" />
     </rect>

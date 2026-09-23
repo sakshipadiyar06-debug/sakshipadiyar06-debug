@@ -42,9 +42,16 @@
 
 ---
 
+### 🚀 Portfolio & Projects
+> ⚡ **Portfolio Hub**: *In active development — coming soon at [`sakshipadiyar06-debug.github.io`](https://sakshipadiyar06-debug.github.io)*
+
+---
+
 ### 🌐 Transmission Channels
 <p align="center">
   <a href="https://github.com/sakshipadiyar06-debug"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://sakshipadiyar06-debug.github.io"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon%20%F0%9F%9A%80-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
