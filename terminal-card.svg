@@ -54,7 +54,7 @@
 
   <!-- Terminal Window Title -->
   <text x="220.0" y="22" fill="#8b949e" font-size="11" font-weight="600" text-anchor="middle" class="mono">
-    YOUR_USERNAME@cyberdeck:~ (sh)
+    sakshipadiyar06-debug@cyberdeck:~ (sh)
   </text>
 
   <!-- ASCII Art Body -->
@@ -87,7 +87,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="82.6" fill="#22ede4" opacity="0">
-                         ....                   
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -96,7 +96,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="92.8" fill="#23ebdb" opacity="0">
-                       ........                 
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -105,7 +105,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="103.0" fill="#24ead3" opacity="0">
-                    ..............              
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -114,7 +114,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="113.2" fill="#26e8ca" opacity="0">
-                   .......   .......            
+                                  .             
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -123,7 +123,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="123.4" fill="#27e7c2" opacity="0">
-                  ......       .....            
+                  .             ..:-:           
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -132,7 +132,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="133.6" fill="#28e5b9" opacity="0">
-                 .....          .....           
+                 ::.              .:.           
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -141,7 +141,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="143.8" fill="#2ae4b1" opacity="0">
-                 ....            .....          
+                 ::.   ::::::      :.           
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -150,7 +150,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="154.0" fill="#2be2a8" opacity="0">
-                .....-##########=.....          
+             ..  .:      ::.....   ..:.         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -159,7 +159,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="164.2" fill="#2ce09f" opacity="0">
-                .....:#@@@@@@@@%-......         
+           ...   :=:                ...         
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -168,7 +168,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="174.4" fill="#2edf97" opacity="0">
-               .....              .....         
+            .  ...::...............::.          
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -177,7 +177,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="184.6" fill="#2fdd8e" opacity="0">
-               ......            ......         
+             .+=---::----------------=++:..     
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -186,7 +186,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="194.8" fill="#30dc86" opacity="0">
-               .........       .........        
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -195,7 +195,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="205.0" fill="#32da7d" opacity="0">
-              ............  ............        
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -204,7 +204,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="215.2" fill="#33d975" opacity="0">
-              ..........................        
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -213,7 +213,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="225.4" fill="#34d76c" opacity="0">
-             ............................       
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -222,7 +222,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="235.6" fill="#36d664" opacity="0">
-            .::::::::::::::::::::::::::::..     
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -231,7 +231,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="245.8" fill="#37d45b" opacity="0">
-         ..:::::::::::::::::::::::::::::::::.   
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -240,7 +240,7 @@
                repeatCount="indefinite" />
     </text>
     <text x="24" y="256.0" fill="#39d353" opacity="0">
-       .::::::::::::::::::::::::::::::::::::::. 
+                                                
       <animate attributeName="opacity"
                values="0;1;1;0"
                keyTimes="0;0.04;0.92;1"
@@ -300,8 +300,8 @@
     <g opacity="0">
       <text x="24" y="326.2">
         <tspan fill="#39d353" font-weight="700">»</tspan>
-        <tspan fill="#00ff88" font-weight="700"> YOUR_USERNAME</tspan>
-        <tspan fill="#8b949e"> [Exploring the Edge of AI]</tspan>
+        <tspan fill="#00ff88" font-weight="700"> sakshipadiyar06-debug</tspan>
+        <tspan fill="#8b949e"> [Full-Stack Architect &amp; AI Engineer]</tspan>
       </text>
       <animate attributeName="opacity"
                values="0;0;1;1;0"
@@ -311,7 +311,7 @@
     </g>
 
     <!-- Blinking Cursor at the end of the command -->
-    <rect x="339" y="315.7" width="6.5" height="12.5" rx="1" fill="#00ff88" opacity="0">
+    <rect x="474" y="315.7" width="6.5" height="12.5" rx="1" fill="#00ff88" opacity="0">
       <animate attributeName="opacity"
                values="0;0;1;0;1;0;1;0"
                keyTimes="0;0.274;0.319;0.363;0.408;0.452;0.497;1"

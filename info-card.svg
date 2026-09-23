@@ -74,7 +74,7 @@
                         begin="0.0s"
                         repeatCount="indefinite" />
       <text x="24" y="54" font-size="11.5" font-weight="700">
-        <tspan fill="#39d353">YOUR_USERNAME</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#38bdf8">quantum-rig</tspan>
+        <tspan fill="#39d353">sakshipadiyar06-debug</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#38bdf8">quantum-rig</tspan>
       </text>
     </g>
     <!-- Row 1: Divider -->
