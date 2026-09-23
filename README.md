@@ -1,16 +1,20 @@
 <div align="center">
 
-# ⚡ Octocat The Architect ⚡
+# ⚡ Sakshi Padiyar ⚡
 
 <p align="center">
-  <b>Cyber-Architect & Autonomous Systems</b>
+  <b>Exploring the Edge of AI</b>
 </p>
 
+<!-- Real Tech Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Arch%20Linux-orange?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Status-Building%20Autonomous%20Systems-39d353?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20Rust-58a6ff?style=flat-square" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/Matrix-Active-bc8cff?style=flat-square" alt="Matrix Active" />
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -30,7 +34,7 @@
 
 <br />
 
-<!-- GitHub Contribution Calendar: Slant Reveal & Specular Glow -->
+<!-- GitHub Contribution Calendar: Slant Reveal & Specular Glow Spelling ENGINEER -->
 <p align="center">
   <img src="./github-contribution-animation.svg" width="100%" alt="GitHub Contribution Calendar" />
 </p>
@@ -40,11 +44,7 @@
 
 ### 🌐 Transmission Channels
 <p align="center">
-  <a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  &nbsp;
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sakshipadiyar06-debug"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>

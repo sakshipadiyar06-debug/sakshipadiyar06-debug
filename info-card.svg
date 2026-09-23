@@ -53,7 +53,7 @@
 
   <!-- Window Title -->
   <text x="220.0" y="22" fill="#8b949e" font-size="11" font-weight="600" text-anchor="middle" class="mono">
-    sysinfo@cyberdeck:~ (neofetch)
+    sysinfo@windows:~ (neofetch)
   </text>
 
   <!-- Neofetch Content Body -->
@@ -73,8 +73,8 @@
                         dur="9.0s"
                         begin="0.0s"
                         repeatCount="indefinite" />
-      <text x="24" y="54" font-size="11.5" font-weight="700">
-        <tspan fill="#39d353">sakshipadiyar06-debug</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#38bdf8">quantum-rig</tspan>
+      <text x="24" y="56" font-size="11.5" font-weight="700">
+        <tspan fill="#39d353">sakshipadiyar06-debug</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#38bdf8">windows-pc</tspan>
       </text>
     </g>
     <!-- Row 1: Divider -->
@@ -92,7 +92,7 @@
                         dur="9.0s"
                         begin="0.06s"
                         repeatCount="indefinite" />
-      <line x1="24" y1="64" x2="416" y2="64" stroke="#21262d" stroke-width="1.2" />
+      <line x1="24" y1="67" x2="416" y2="67" stroke="#21262d" stroke-width="1.2" />
     </g>
     <!-- Row 2: OS -->
     <g opacity="0">
@@ -109,9 +109,9 @@
                         dur="9.0s"
                         begin="0.12s"
                         repeatCount="indefinite" />
-      <text x="24" y="76">
+      <text x="24" y="80">
         <tspan fill="#ff9a3c" font-weight="600">OS:</tspan>
-        <tspan fill="#c9d1d9"> Arch Linux x86_64 / CyberOS</tspan>
+        <tspan fill="#f0f6fc"> Windows 11 x64</tspan>
       </text>
     </g>
     <!-- Row 3: Host -->
@@ -129,12 +129,12 @@
                         dur="9.0s"
                         begin="0.18s"
                         repeatCount="indefinite" />
-      <text x="24" y="92.5">
+      <text x="24" y="97.5">
         <tspan fill="#ff9a3c" font-weight="600">Host:</tspan>
-        <tspan fill="#c9d1d9"> Neural Core v4.2 [Custom Rig]</tspan>
+        <tspan fill="#c9d1d9"> Laptop / Developer Workstation</tspan>
       </text>
     </g>
-    <!-- Row 4: Kernel -->
+    <!-- Row 4: Shell -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -149,12 +149,12 @@
                         dur="9.0s"
                         begin="0.24s"
                         repeatCount="indefinite" />
-      <text x="24" y="109.0">
-        <tspan fill="#ff9a3c" font-weight="600">Kernel:</tspan>
-        <tspan fill="#c9d1d9"> 6.11.0-zen-cyberdeck</tspan>
+      <text x="24" y="115.0">
+        <tspan fill="#ff9a3c" font-weight="600">Shell:</tspan>
+        <tspan fill="#c9d1d9"> Git Bash &amp; PowerShell</tspan>
       </text>
     </g>
-    <!-- Row 5: Uptime -->
+    <!-- Row 5: Editor -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -169,9 +169,9 @@
                         dur="9.0s"
                         begin="0.3s"
                         repeatCount="indefinite" />
-      <text x="24" y="125.5">
-        <tspan fill="#ff9a3c" font-weight="600">Uptime:</tspan>
-        <tspan fill="#39d353"> 99.99% (Always Crafting)</tspan>
+      <text x="24" y="132.5">
+        <tspan fill="#ff9a3c" font-weight="600">Editor:</tspan>
+        <tspan fill="#c9d1d9"> VS Code &amp; Terminal</tspan>
       </text>
     </g>
     <!-- Row 6: Section ── ABOUT ── -->
@@ -189,7 +189,7 @@
                         dur="9.0s"
                         begin="0.36s"
                         repeatCount="indefinite" />
-      <text x="24" y="142.0" font-size="9" font-weight="700" fill="#bc8cff" letter-spacing="0.8">
+      <text x="24" y="150.0" font-size="9" font-weight="700" fill="#bc8cff" letter-spacing="0.8">
         ── ABOUT ──
       </text>
     </g>
@@ -208,9 +208,9 @@
                         dur="9.0s"
                         begin="0.42s"
                         repeatCount="indefinite" />
-      <text x="24" y="155.0">
+      <text x="24" y="164.0">
         <tspan fill="#bc8cff" font-weight="600">Role:</tspan>
-        <tspan fill="#f0f6fc"> Full-Stack Architect &amp; AI Eng</tspan>
+        <tspan fill="#f0f6fc"> Exploring the Edge of AI</tspan>
       </text>
     </g>
     <!-- Row 8: Focus -->
@@ -228,9 +228,9 @@
                         dur="9.0s"
                         begin="0.48s"
                         repeatCount="indefinite" />
-      <text x="24" y="171.5">
+      <text x="24" y="181.5">
         <tspan fill="#bc8cff" font-weight="600">Focus:</tspan>
-        <tspan fill="#c9d1d9"> Autonomous Systems • Distributed Cloud</tspan>
+        <tspan fill="#c9d1d9"> Machine Learning &amp; AI Engineering</tspan>
       </text>
     </g>
     <!-- Row 9: Status -->
@@ -248,9 +248,9 @@
                         dur="9.0s"
                         begin="0.54s"
                         repeatCount="indefinite" />
-      <text x="24" y="188.0">
+      <text x="24" y="199.0">
         <tspan fill="#bc8cff" font-weight="600">Status:</tspan>
-        <tspan fill="#7ee787"> 🟢 Open for high-impact innovation</tspan>
+        <tspan fill="#7ee787"> 🟢 Actively Building &amp; Learning</tspan>
       </text>
     </g>
     <!-- Row 10: Section ── TECH STACK ── -->
@@ -268,7 +268,7 @@
                         dur="9.0s"
                         begin="0.6s"
                         repeatCount="indefinite" />
-      <text x="24" y="204.5" font-size="9" font-weight="700" fill="#58a6ff" letter-spacing="0.8">
+      <text x="24" y="216.5" font-size="9" font-weight="700" fill="#58a6ff" letter-spacing="0.8">
         ── TECH STACK ──
       </text>
     </g>
@@ -287,12 +287,12 @@
                         dur="9.0s"
                         begin="0.66s"
                         repeatCount="indefinite" />
-      <text x="24" y="217.5">
+      <text x="24" y="230.5">
         <tspan fill="#58a6ff" font-weight="600">Languages:</tspan>
-        <tspan fill="#e6edf3"> Python, TypeScript, Rust, Go, SQL</tspan>
+        <tspan fill="#e6edf3"> Python, C, SQL, NoSQL (MongoDB)</tspan>
       </text>
     </g>
-    <!-- Row 12: Frameworks -->
+    <!-- Row 12: Cloud &amp; Tools -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -307,12 +307,12 @@
                         dur="9.0s"
                         begin="0.72s"
                         repeatCount="indefinite" />
-      <text x="24" y="234.0">
-        <tspan fill="#58a6ff" font-weight="600">Frameworks:</tspan>
-        <tspan fill="#e6edf3"> React, Next.js, FastAPI, Node, PyTorch</tspan>
+      <text x="24" y="248.0">
+        <tspan fill="#38bdf8" font-weight="600">Cloud &amp; Tools:</tspan>
+        <tspan fill="#e6edf3"> Docker, AWS, Git</tspan>
       </text>
     </g>
-    <!-- Row 13: Cloud &amp; Ops -->
+    <!-- Row 13: Section ── MISSION ── -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -327,12 +327,11 @@
                         dur="9.0s"
                         begin="0.78s"
                         repeatCount="indefinite" />
-      <text x="24" y="250.5">
-        <tspan fill="#38bdf8" font-weight="600">Cloud &amp; Ops:</tspan>
-        <tspan fill="#e6edf3"> Docker, Kubernetes, AWS, GCP, CI/CD</tspan>
+      <text x="24" y="265.5" font-size="9" font-weight="700" fill="#39d353" letter-spacing="0.8">
+        ── MISSION ──
       </text>
     </g>
-    <!-- Row 14: Section ── HIGHLIGHTS ── -->
+    <!-- Row 14: Mission -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -347,11 +346,12 @@
                         dur="9.0s"
                         begin="0.84s"
                         repeatCount="indefinite" />
-      <text x="24" y="267.0" font-size="9" font-weight="700" fill="#39d353" letter-spacing="0.8">
-        ── HIGHLIGHTS ──
+      <text x="24" y="279.5">
+        <tspan fill="#39d353" font-weight="600">Mission:</tspan>
+        <tspan fill="#c9d1d9"> Pushing boundaries at the edge of AI</tspan>
       </text>
     </g>
-    <!-- Row 15: Activity -->
+    <!-- Row 15: Divider -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -366,12 +366,9 @@
                         dur="9.0s"
                         begin="0.9s"
                         repeatCount="indefinite" />
-      <text x="24" y="280.0">
-        <tspan fill="#39d353" font-weight="600">Activity:</tspan>
-        <tspan fill="#39d353"> 2,400+ Commits • 450+ PRs • 1.5k Stars</tspan>
-      </text>
+      <line x1="24" y1="293.0" x2="416" y2="293.0" stroke="#21262d" stroke-width="1.2" />
     </g>
-    <!-- Row 16: Mission -->
+    <!-- Row 16: ANSI Color Blocks -->
     <g opacity="0">
       <animate attributeName="opacity"
                values="0;1;1;0"
@@ -386,61 +383,24 @@
                         dur="9.0s"
                         begin="0.96s"
                         repeatCount="indefinite" />
-      <text x="24" y="296.5">
-        <tspan fill="#39d353" font-weight="600">Mission:</tspan>
-        <tspan fill="#8b949e"> Building tools that elevate human capability</tspan>
-      </text>
-    </g>
-    <!-- Row 17: Divider -->
-    <g opacity="0">
-      <animate attributeName="opacity"
-               values="0;1;1;0"
-               keyTimes="0;0.05;0.92;1"
-               dur="9.0s"
-               begin="1.02s"
-               repeatCount="indefinite" />
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        values="0 7; 0 0; 0 0; 0 7"
-                        keyTimes="0;0.05;0.92;1"
-                        dur="9.0s"
-                        begin="1.02s"
-                        repeatCount="indefinite" />
-      <line x1="24" y1="309.0" x2="416" y2="309.0" stroke="#21262d" stroke-width="1.2" />
-    </g>
-    <!-- Row 18: ANSI Color Blocks -->
-    <g opacity="0">
-      <animate attributeName="opacity"
-               values="0;1;1;0"
-               keyTimes="0;0.05;0.92;1"
-               dur="9.0s"
-               begin="1.08s"
-               repeatCount="indefinite" />
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        values="0 7; 0 0; 0 0; 0 7"
-                        keyTimes="0;0.05;0.92;1"
-                        dur="9.0s"
-                        begin="1.08s"
-                        repeatCount="indefinite" />
       <!-- Standard ANSI 8 colors -->
-      <rect x="24" y="323.0" width="20" height="10" rx="2" fill="#21262d" />
-      <rect x="49" y="323.0" width="20" height="10" rx="2" fill="#f85149" />
-      <rect x="74" y="323.0" width="20" height="10" rx="2" fill="#2ea043" />
-      <rect x="99" y="323.0" width="20" height="10" rx="2" fill="#d29922" />
-      <rect x="124" y="323.0" width="20" height="10" rx="2" fill="#58a6ff" />
-      <rect x="149" y="323.0" width="20" height="10" rx="2" fill="#bc8cff" />
-      <rect x="174" y="323.0" width="20" height="10" rx="2" fill="#39c5cf" />
-      <rect x="199" y="323.0" width="20" height="10" rx="2" fill="#b1bac4" />
+      <rect x="24" y="310.0" width="20" height="10" rx="2" fill="#21262d" />
+      <rect x="49" y="310.0" width="20" height="10" rx="2" fill="#f85149" />
+      <rect x="74" y="310.0" width="20" height="10" rx="2" fill="#2ea043" />
+      <rect x="99" y="310.0" width="20" height="10" rx="2" fill="#d29922" />
+      <rect x="124" y="310.0" width="20" height="10" rx="2" fill="#58a6ff" />
+      <rect x="149" y="310.0" width="20" height="10" rx="2" fill="#bc8cff" />
+      <rect x="174" y="310.0" width="20" height="10" rx="2" fill="#39c5cf" />
+      <rect x="199" y="310.0" width="20" height="10" rx="2" fill="#b1bac4" />
       <!-- Bright ANSI 8 colors -->
-      <rect x="24" y="336.0" width="20" height="10" rx="2" fill="#484f58" filter="url(#swatch-glow)" />
-      <rect x="49" y="336.0" width="20" height="10" rx="2" fill="#ff7b72" filter="url(#swatch-glow)" />
-      <rect x="74" y="336.0" width="20" height="10" rx="2" fill="#39d353" filter="url(#swatch-glow)" />
-      <rect x="99" y="336.0" width="20" height="10" rx="2" fill="#ff9a3c" filter="url(#swatch-glow)" />
-      <rect x="124" y="336.0" width="20" height="10" rx="2" fill="#79c0ff" filter="url(#swatch-glow)" />
-      <rect x="149" y="336.0" width="20" height="10" rx="2" fill="#d2a8ff" filter="url(#swatch-glow)" />
-      <rect x="174" y="336.0" width="20" height="10" rx="2" fill="#56d4dd" filter="url(#swatch-glow)" />
-      <rect x="199" y="336.0" width="20" height="10" rx="2" fill="#ffffff" filter="url(#swatch-glow)" />
+      <rect x="24" y="323.0" width="20" height="10" rx="2" fill="#484f58" filter="url(#swatch-glow)" />
+      <rect x="49" y="323.0" width="20" height="10" rx="2" fill="#ff7b72" filter="url(#swatch-glow)" />
+      <rect x="74" y="323.0" width="20" height="10" rx="2" fill="#39d353" filter="url(#swatch-glow)" />
+      <rect x="99" y="323.0" width="20" height="10" rx="2" fill="#ff9a3c" filter="url(#swatch-glow)" />
+      <rect x="124" y="323.0" width="20" height="10" rx="2" fill="#79c0ff" filter="url(#swatch-glow)" />
+      <rect x="149" y="323.0" width="20" height="10" rx="2" fill="#d2a8ff" filter="url(#swatch-glow)" />
+      <rect x="174" y="323.0" width="20" height="10" rx="2" fill="#56d4dd" filter="url(#swatch-glow)" />
+      <rect x="199" y="323.0" width="20" height="10" rx="2" fill="#ffffff" filter="url(#swatch-glow)" />
     </g>
   </g>
 </svg>
