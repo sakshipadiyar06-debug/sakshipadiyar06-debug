@@ -268,7 +268,7 @@
                         repeatCount="indefinite" />
       <text x="24" y="209.5">
         <tspan fill="#58a6ff" font-weight="600">Languages:</tspan>
-        <tspan fill="#e6edf3"> Python, SQL, NoSQL (MongoDB)</tspan>
+        <tspan fill="#e6edf3"> Python, C , SQL, NoSQL (MongoDB)</tspan>
       </text>
     </g>
     <!-- Row 11: Cloud &amp; Tools -->
