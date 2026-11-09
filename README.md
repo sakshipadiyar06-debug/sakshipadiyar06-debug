@@ -16,9 +16,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://sakshipadiyar06-debug.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon%20%F0%9F%9A%80-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://portfolio-sl-e087.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://x.com/sakshi_pad78445" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </p>
 
 <!-- Real Tech Stack Badges -->
